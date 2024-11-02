@@ -29,13 +29,10 @@ pymongo: Install the pymongo package
 Adding an Expense
 Enter the amount, category, and date (optional).
 Click "Add Expense" to save it to the database.
-
 Updating an Expense
 Select an expense from the list, make changes to the fields, and click "Update Expense".
-
 Deleting an Expense
 Select an expense and click "Delete Expense" to remove it.
-
 Viewing Expenses
 The Treeview table shows all expenses by amount, category, and date.
 
